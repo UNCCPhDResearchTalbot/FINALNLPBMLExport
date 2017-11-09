@@ -1,0 +1,1 @@
+Y	MOVE	MISSPRISM	CENTER	<?xml version="1.0" encoding="UTF-8" standalone="no" ?><act><participant id="MISSPRISM" role="actor" /><bml><locomotion target="CENTER" type="basic" manner="walk" /></bml></act>
